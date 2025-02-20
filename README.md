@@ -1,0 +1,1 @@
+This is just a playground for myself to experiment and compare different libraries for deeplearning. To make sure the models work, i will be using mnist. Later, the plan is to actually use the models on complexer datasets like [CIFAR-10](https://en.wikipedia.org/wiki/CIFAR-10)
