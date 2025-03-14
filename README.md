@@ -11,3 +11,9 @@ This is just a playground for myself to experiment and compare different librari
 | Pytorch    | cnn   | 99.18%   | 0.0311 | 53.6s  | <span style="color:green">True</span>      |
 | Pytorch    | mlp   | 98.18%   | 0.072 | 64.1s  | <span style="color:red">False</span>      |
 | Pytorch    | mlp   | 98.23%   | 0.070 | 34.2s  | <span style="color:green">True</span>      |
+
+# Future plans:
+- Test the model(s) on different datasets
+- Implement image augmentation for the images for the cnn's, something like what i did for my other repository
+- ![image](https://github.com/user-attachments/assets/4efdce9b-56dc-47df-9473-ad9127c61c90)
+
